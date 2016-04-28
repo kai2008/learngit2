@@ -3,3 +3,4 @@ hehello world
 edited from dev
 edit from master
 edited again bug4 from dev
+edit from ssh clone
